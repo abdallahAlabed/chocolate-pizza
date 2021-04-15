@@ -10,6 +10,32 @@ font-size: 200%;
 margin-bottom: 60px;
 font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  margin: 0px;
+}
+h2, h3 {
+  text-transform: uppercase;
+  color: grey;
+  font-family: 'Strait', sans-serif;
+}
+h4 {
+  font-family: 'Oswald', sans-serif;
+
+  text-transform: uppercase;
+}
+#print {
+  float: right;
+
+}
+
+#printText {
+  text-transform: uppercase;
+  color: grey;
+  margin-bottom: 0%;
+  margin-top: 0%;
+}
 
 #first {
   display: inline-block;
@@ -60,3 +86,48 @@ float: right ;
 footer img {
 height: 50%;
 }
+footer img {
+  float: left;
+}
+footer button {
+  float: right;
+  background-color: rgba(199, 12, 5, 0.589);
+  width: 120px;
+  height: 30px;
+  
+}
+#copyright {
+  text-align: center;
+  color: gray;
+}
+ul, li {
+  list-style-type: none;
+}
+
+li {
+  padding-left: 0;
+  margin-left: 0;
+}
+ #asd{
+   
+    margin-top:50px ;
+display: inline-block;
+}
+ #img1{
+   margin-left: 365px;
+
+ }
+ #btata{
+margin-top: 10px; 
+
+ }
+ .z{
+  text-indent: 50px;
+  margin-top: 20px;
+ }
+ .gray{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height: 10px;
+   background-color: gray;
+ }
