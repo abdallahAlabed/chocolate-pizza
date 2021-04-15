@@ -1,0 +1,62 @@
+
+header {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 10%;
+ 
+}
+header label{
+font-size: 200%;
+margin-bottom: 60px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#first {
+  display: inline-block;
+
+}
+#second {
+    /* display: inline-block; */
+  float: right;
+  margin-top: 20px;
+
+}
+body {
+    margin: auto;
+    width: 901px;
+    height: 80%;
+}
+
+main p {
+text-decoration:solid;
+display: block;
+font-size: 20px;
+}
+
+#photo1{
+    position: relative;
+
+}
+
+#photo2 {
+    position:absolute;
+    top:20%;
+    left: 10%;
+    text-align: left;
+    font-size: 25px;
+    margin-left: 0px;
+margin-top: 0px;
+}
+
+#thefirs {
+float: left;
+
+}
+#theSec {
+float: right ;
+
+}
+
+footer img {
+height: 50%;
+}
